@@ -1,2 +1,2 @@
 # tp-git
-il y a unes faute
+il y a une faute
